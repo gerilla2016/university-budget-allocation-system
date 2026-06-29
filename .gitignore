@@ -1,0 +1,33 @@
+# Compiled object files
+
+*.o
+*.obj
+
+# Executable files
+
+*.exe
+*.out
+a.out
+driver
+
+# Debug files
+
+*.log
+
+# Editor folders
+
+.vscode/
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Temporary files
+
+*.tmp
+*.bak
+
+# Compressed files
+*.zip
